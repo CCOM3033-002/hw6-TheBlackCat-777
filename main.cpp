@@ -1,3 +1,7 @@
+/*
+Raúl S. Rivera Pizarro
+801-24-2663
+*/
 #include <iostream>
 #include <string>
 #include <cmath>
